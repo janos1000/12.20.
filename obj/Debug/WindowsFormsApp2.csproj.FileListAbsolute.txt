@@ -1,0 +1,5 @@
+C:\Users\BirinyiJZ\Gitwork\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\BirinyiJZ\Gitwork\WindowsFormsApp2\obj\Debug\ListViewWithDatabase.Form1.resources
+C:\Users\BirinyiJZ\Gitwork\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BirinyiJZ\Gitwork\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\BirinyiJZ\Gitwork\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
